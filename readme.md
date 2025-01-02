@@ -16,16 +16,6 @@ If you find this work helpful, please cite:
 }
 ```
 
-## Authors
-
-- **Jiayi Kong** (jiayi006@e.ntu.edu.sg)
-- **Xurui Song** (song0257@e.ntu.edu.sg)
-- **Shuo Huai** (shuo.huai@ntu.edu.sg)
-- **Baixin Xu** (baixin.xu@ntu.edu.sg)
-- **Jun Luo** (junluo@ntu.edu.sg)
-- **Ying He** (corresponding author) (yhe@ntu.edu.sg)
-- 
-
 1. **S-Lab, Nanyang Technological University, Singapore**
 2. **College of Computing and Data Science, Nanyang Technological University, Singapore**
 
